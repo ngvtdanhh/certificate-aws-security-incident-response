@@ -43,7 +43,7 @@ This repository documents key learning notes, response demos, and screenshots fr
 
 ## 📜 Certificate
 
-- 🎓 [`AWS Security Incident Response Overview`](./cert/certificate-aws-skillbuilder.png)
+- 🎓 [`AWS Security Incident Response Overview`](./cert/aws-skillbuilder-certificate.pdf)
 
 ---
 
